@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.VariiMN.Sprint1.Task0.V0.Lib\Tyuiu.VariiMN.Sprint1.Task0.V0.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.VariiMN.Sprint1.Task0.V19.Lib\Tyuiu.VariiMN.Sprint1.Task0.V19.Lib.csproj" />
   </ItemGroup>
 
   <ItemGroup>

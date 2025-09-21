@@ -1,5 +1,5 @@
-﻿using Tyuiu.VariiMN.Sprint1.Task0.V0.Lib;
-namespace Tyuiu.VariiMN.Sprint1.Task0.V0
+﻿using Tyuiu.VariiMN.Sprint1.Task0.V19.Lib;
+namespace Tyuiu.VariiMN.Sprint1.Task0.V19
 {
     class Program
     {
@@ -11,17 +11,17 @@ namespace Tyuiu.VariiMN.Sprint1.Task0.V0
             Console.WriteLine("* Спринт #1                                                              *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                       *");
             Console.WriteLine("* Задание #0                                                             *");
-            Console.WriteLine("* Вариант #0                                                             *");
+            Console.WriteLine("* Вариант #19                                                            *");
             Console.WriteLine("* Выполнил: Варий Максим Николаевич  | ИСПб-25-1                         *");
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                               *");
-            Console.WriteLine("* Написать программу, которая вычисляет выражение 10 / (2 + 3)           *");
+            Console.WriteLine("* Написать программу, которая вычисляет выражение 4/2*5/(3+2)*5          *");
             Console.WriteLine("* и печатает результат на экране.                                        *");
             Console.WriteLine("*                                                                        *");
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                       *");
             Console.WriteLine("**************************************************************************");
-            Console.WriteLine("* 10 / (2 + 3)                                                           *");
+            Console.WriteLine("* 4/2*5/(3+2)*5                                                          *");
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                             *");
             Console.WriteLine("**************************************************************************");
