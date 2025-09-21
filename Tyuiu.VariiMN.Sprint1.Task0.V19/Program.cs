@@ -27,6 +27,7 @@ namespace Tyuiu.VariiMN.Sprint1.Task0.V19
             Console.WriteLine("**************************************************************************");
 
 
+
             Console.WriteLine(ds.Calculate());
             Console.ReadLine();
         }
