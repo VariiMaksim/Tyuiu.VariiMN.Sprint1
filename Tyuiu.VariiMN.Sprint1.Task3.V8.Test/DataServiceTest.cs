@@ -11,7 +11,7 @@ namespace Tyuiu.VariiMN.Sprint1.Task3.V8.Test
             double startAmount = 2500;
             double percent = 20;
             double timeDays = 30;
-            double wait = 41.10;
+            double wait = 41.109;
             var res = ds.IncomeAmount(startAmount, percent, timeDays);
             Assert.AreEqual(wait, res);
 
