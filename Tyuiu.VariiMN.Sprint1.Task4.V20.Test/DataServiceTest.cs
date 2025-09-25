@@ -9,9 +9,9 @@ namespace Tyuiu.VariiMN.Sprint1.Task4.V20.Test
         public void ValidExpression()
         {
             DataService ds = new DataService();
-            double x = 2;
-            double y = 2;
-            double wait = double.PositiveInfinity;
+            double x = 5;
+            double y = 5;
+            double wait = 2.549;
             var res = ds.Calculate(x, y);
             Assert.AreEqual(wait, res);
 
